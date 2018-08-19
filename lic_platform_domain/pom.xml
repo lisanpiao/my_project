@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sanpiao</groupId>
-	<artifactId>lic_platform_common</artifactId>
+	<artifactId>lic_platform_domain</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>lic_platform_common</name>
+	<name>lic_platform_domain</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
